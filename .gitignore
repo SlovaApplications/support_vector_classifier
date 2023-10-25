@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+classified_data.jsonl
+svm_model.pickle
